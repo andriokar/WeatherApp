@@ -11,8 +11,8 @@ lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.10.1"
 composeBom = "2025.03.01"
 play-services-location = "21.3.0"
-retrofit = "2.11.0"
-converter-moshi = "2.11.0"
+retrofit = "2.9.0"
+converter-moshi = "2.9.0"
 okhttp-logging = "5.0.0-alpha.14"
 
 [libraries]
