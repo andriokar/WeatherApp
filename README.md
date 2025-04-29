@@ -1,4 +1,4 @@
 ### Weather application with Jetpack Compose
 ### Screenshots:
 #### Main screen
-<img src="Screenshots/main_screen.png.png" alt="Search kotlin books" style="width:50%; height:auto;">
+<img src="Screenshots/main_screen.png" alt="Main screen" style="width:50%; height:auto;">
